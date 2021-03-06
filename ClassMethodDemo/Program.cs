@@ -35,7 +35,7 @@ namespace ClassMethodDemo
 
 
 
-            Customer[] customers = new Customer[] { customer1 , customer2 };
+            Customer[] customers = new Customer[] { customer1 , customer2, customer3 };
             
 
             foreach (var customer in customers)
